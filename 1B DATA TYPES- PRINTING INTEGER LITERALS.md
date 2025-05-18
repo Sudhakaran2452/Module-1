@@ -9,10 +9,7 @@ To write a python program to read one integer and float  value.
 4. Execute the program.
 
 ## PROGRAM
-```python
-# Reg.No-212223060017
-# Name-Anbuvijayan S
-
+```
 a=int(input())
 b=float(input())
 print(a,b)
