@@ -12,14 +12,18 @@ To write a Python program for adding two complex numbers, and get the user input
 6. Terminate the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-#Name-
-#Write your code here
+```
+a=int(input())
+b=int(input())
+c=complex(a,b)
+print(c)
+print(c.imag)
 
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/fff13b2b-5258-4e27-9005-48830957eea6)
+
 
 
 ## RESULT
